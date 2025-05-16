@@ -7,38 +7,31 @@ Currently focused on building a strong foundation in **Web Development** and exp
 
 ## 💼 About Me
 
-- 🎓 Pursuing B.Tech in Engineering
-- 🧠 Passionate about coding, tech, and innovation
-- 🚀 Constantly learning and building real-world projects
-- 🌱 Currently improving my skills in frontend development
+- 🎓 Pursuing B.Tech in Engineering  
+- 🧠 Passionate about coding, tech, and innovation  
+- 🚀 Constantly learning and building real-world projects  
+- 🌱 Currently improving my skills in frontend development  
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Languages  
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-
-### Web Technologies  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Database  
-![MySQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Cloud & AI  
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini%20AI-000000?style=flat-square&logo=google&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini%20AI-000000?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
 ## 📈 Current Focus
 
-- 🧑‍💻 Frontend Development (HTML, CSS, JavaScript)
-- ☁️ Exploring Google Cloud & AI tools
-- 👨‍🔬 Building hands-on projects to gain practical experience
+- 🧑‍💻 Frontend Development (HTML, CSS, JavaScript)  
+- ☁️ Exploring Google Cloud & AI tools  
+- 👨‍🔬 Building hands-on projects to gain practical experience  
 
 ---
 
@@ -51,4 +44,3 @@ Currently focused on building a strong foundation in **Web Development** and exp
 ---
 
 > _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
-
