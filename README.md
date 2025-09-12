@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on *java projects,hackathon and internships.*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12IDLZ7-QYInvpSRhhFQ5IixEr4VxGhNK/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1E57rQyRL_5tBq6UsvLQ1NT9WGZQLeey-/view?usp=drive_link)
 
 - ⚡ Fun fact *I started coding with C and now I'm falling in love with Java.*
 
