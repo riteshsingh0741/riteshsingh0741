@@ -1,47 +1,144 @@
-<h1 align="center">Hi 👋, I'm RITESH KUMAR SINGH</h1>
-<h3 align="center">From curiosity to code: my developer journey.</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Ritesh+Kumar+Singh;Cloud+Enthusiast;Full+Stack+Developer;Java+Lover+☕" />
+</h1>
 
-- 🔭 I’m currently working on *java apps and full stack web development.*
+<h3 align="center">From curiosity to code — building scalable systems 🚀</h3>
 
-- 🌱 I’m currently learning *DSA using java and full stack web development.*
+---
 
-- 👯 I’m looking to collaborate on *java projects,hackathon and internships.*
-
-- 📄 Know about my experiences [[[(https://drive.google.com/file/d/1dhFBwLvckwEcP10tIlyVsTnmK-wn0Qqg/view?usp=sharing)](https://drive.google.com/file/d/1xKRY63I7aoh0a0bnbf8q9nieftFyXY3P/view?usp=sharing)]
-
-- ⚡ Fun fact *I started coding with C and now I'm falling in love with Java.*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ritesh-kumar-singh-b75559299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritesh-kumar-singh-b75559299/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/riteshsingh0741/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="riteshsingh074" height="30" width="40" /></a>
+## 🔗 Connect With Me
+<p align="center">
+<a href="https://www.linkedin.com/in/ritesh-kumar-singh-b75559299/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/riteshsingh0741/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="mailto:riteshsingh0741@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/riteshsingh0741">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-<a href="https://wordpress.org/" target="_blank">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-</a>
-
-<a href="https://cloud.google.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-</a>
-
-<a href="https://deepmind.google/technologies/gemini/" target="_blank">
-  <img src="https://img.shields.io/badge/Gemini%20AI-000000?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" />
-</a>
-
-
-
-## 📫 Contact Me
-
-- 📧 Email: [riteshsingh0741@gmail.com](mailto:riteshsingh0741@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/ritesh-kumar-singh-b75559299](https://www.linkedin.com/in/ritesh-kumar-singh-b75559299/)  
-- 🌐 GitHub: [github.com/riteshsingh0741](https://github.com/riteshsingh0741)
-
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monu9523&show_icons=true&locale=en&layout=compact" alt="monu9523" /></p>
-
-    
 ---
-    
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSE Student  
+- 💻 Focused on **Java + Full Stack Development**  
+- 🌱 Currently learning **DSA & System Design**  
+- 🚀 Interested in **Cloud + Scalable Systems**  
+- 🤝 Open to **Internships & Collaboration**  
+- ⚡ Fun fact: Started with **C → Fell in love with Java ☕**
+
+---
+
+## ⚙️ Tech Stack
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 🎨 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚙️ Backend & DB
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Agentic AI System to Refine User Stories  
+**Tech:** Python, AI/ML  
+- Built an intelligent system to improve software user stories using **AI/ML + rule-based logic**  
+- Achieved **30–40% improvement** in clarity, completeness, and readability  
+- Evaluated using metrics like ambiguity reduction & acceptance criteria quality  
+- 🔗 [Run Project](https://mybinder.org/v2/gh/riteshsingh0741/Agentic_AI_System/HEAD?urlpath=%2Fdoc%2Ftree%2Frun_pipeline.ipynb)
+
+---
+
+### 🏥 Hospital Management System  
+**Tech:** Java, MySQL, JDBC  
+- Developed a **desktop-based system** for hospital operations  
+- Features: patient registration, appointments, billing & inventory  
+- Used **OOP + JDBC** for modular and scalable architecture  
+- Ensured **secure data storage** with MySQL  
+
+---
+
+### 🛰️ Satellite Ground Station Coverage Optimization  
+**Tech:** C, Data Structures & Algorithms  
+- Solved shortest path problem using **graph algorithms (Dijkstra)**  
+- Case study based on **Indian metropolitan network**  
+- Improved route efficiency between stations and cities  
+
+---
+
+### 💳 Banking Activity Simulation Platform *(Internship Project)*  
+**Tech:** Java, JDBC, File Handling  
+- Built during **Infosys Springboard Internship** :contentReference[oaicite:0]{index=0}  
+- Simulated real-world banking operations:  
+  - Account management  
+  - Deposits & withdrawals  
+  - Fund transfers  
+- Implemented **exception handling + secure transactions**  
+- Added **balance alerts & report generation system**
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=riteshsingh0741&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshsingh0741&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=riteshsingh0741&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/riteshsingh0741?theme=dark&font=baloo&ext=contest" />
+</p>
+
+---
+
+## 📜 Resume
+
+📄 [View Resume](https://drive.google.com/file/d/1xKRY63I7aoh0a0bnbf8q9nieftFyXY3P/view?usp=sharing)
+
+---
+
+## ✨ Quote
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
+
+<p align="center">
+🔥 Thanks for visiting my profile! Let's build something amazing 🚀
+</p>
