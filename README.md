@@ -25,7 +25,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(Cloud+Computing)+%40+CVR+Global+Uni;Building+Scalable+Systems+%F0%9F%9A%80;Java+%2B+Spring+Boot+%2B+Full+Stack+Dev;Cloud+Enthusiast+%E2%98%81%EF%B8%8F+%7C+AI%2FML+Explorer;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(Cloud+Computing);Building+Scalable+Systems+%F0%9F%9A%80;Java+%2B+Spring+Boot+%2B+Full+Stack+Dev;Cloud+Enthusiast+%E2%98%81%EF%B8%8F+%7C+AI%2FML+Explorer;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
 
 </div>
 
@@ -34,25 +34,25 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name       : Ritesh Kumar Singh
-location   : Sitamarhi, Bihar → Bhubaneswar, Odisha
-university : C.V. Raman Global University (2023–2027)
-degree     : B.Tech CSE — Cloud Computing  |  CGPA: 9.14
-internship : Infosys Springboard 6.0  (Sep–Nov 2025)
+Name       : Ritesh Kumar Singh
+Location   : Sitamarhi, Bihar → Bhubaneswar, Odisha
+University : C.V. Raman Global University (2023–2027)
+Degree     : B.Tech CSE — Cloud Computing  |  CGPA: 9.14
+Internship : Infosys Springboard 6.0  (Sep–Nov 2025)
 
-focus_areas:
+Focus_areas:
   - Java Full Stack (Spring Boot + React)
   - Cloud Platforms (AWS, GCP, Oracle Cloud)
   - AI/ML & Agentic Systems
   - DSA & System Design
 
-currently_learning:
+Currently_learning:
   - Advanced System Design
   - Angular & Microservices
   - Cloud-Native Architecture
 
-fun_fact    : "Started with C → Fell in love with Java ☕"
-open_to     : Internships, Open Source, Hackathons
+Fun_fact    : "⚡ Built my foundation with **C and now specializing in Java development ☕"
+Open_to     : Internships, Open Source, Hackathons
 ```
 
 ---
@@ -147,15 +147,6 @@ open_to     : Internships, Open Source, Hackathons
 <tr>
 <td width="50%">
 
-### 🍽️ Digital Cafe Ordering & Operations Platform
-**`Java` `Spring Boot` `Spring Security` `MySQL` `Angular`**
-
-- Multi-role full-stack platform with table booking, food pre-ordering, secure payments & real-time order tracking
-- JWT-based access control for role-based auth
-- MySQL-backed data management for users, bookings, orders & payments
-
-</td>
-<td width="50%">
 
 ### 🛰️ Satellite Ground Station Coverage Optimization
 **`C` `Data Structures` `Graph Algorithms`**
