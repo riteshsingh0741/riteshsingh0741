@@ -41,14 +41,14 @@ Degree     : B.Tech CSE — Cloud Computing  |  CGPA: 9.14
 Internship : Infosys Springboard 6.0  (Sep–Nov 2025)
 
 Focus_areas:
-  - Java Full Stack (Spring Boot + React)
+  - Java Developer (Frontend)
   - Cloud Platforms (AWS, GCP, Oracle Cloud)
   - AI/ML & Agentic Systems
   - DSA & System Design
 
 Currently_learning:
-  - Advanced System Design
-  - Angular & Microservices
+  - Basic Spring Boot & React
+  - Microservices
   - Cloud-Native Architecture
 
 Fun_fact    : "⚡ Built my foundation with **C and now specializing in Java development ☕"
@@ -70,11 +70,9 @@ Open_to     : Internships, Open Source, Hackathons
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### ⚙️ Backend & Databases
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
